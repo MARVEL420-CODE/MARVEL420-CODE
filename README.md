@@ -23,7 +23,7 @@ Building intelligent applications with
 
 <!-- SOCIAL BUTTONS -->
 
-<a href="https://www.linkedin.com/in/purushothaman-p-6436a228/">
+<a href="https://www.linkedin.com/in/purushothaman-p-6436a228a/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
