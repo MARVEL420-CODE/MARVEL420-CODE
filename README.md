@@ -145,7 +145,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ [Voxmate — AI Voice Assistant](https://github.com/MARVEL420-CODE)
+### 🎙️ [Voxmate — AI Voice Assistant](https://github.com/MARVEL420-CODE](https://github.com/MARVEL420-CODE/Voxmate_on_live)
 **Team Lead · KSCST Funded (Ref: 49S_BE_3509)**
 
 Conversational AI voice assistant with facial authentication and IoT-based smart device control. Modular architecture supports 10+ voice command categories with MQTT integration for real-time home automation.
@@ -155,7 +155,7 @@ Conversational AI voice assistant with facial authentication and IoT-based smart
 </td>
 <td width="50%" valign="top">
 
-### 📄 [PDF RAG Chatbot](https://github.com/MARVEL420-CODE)
+### 📄 [PDF RAG Chatbot](https://github.com/MARVEL420-CODE](https://github.com/MARVEL420-CODE/PDF-RAG-BOT)
 **Personal Project**
 
 Retrieval-Augmented Generation chatbot for intelligent PDF Q&A. Implements text chunking, embeddings, and semantic search with FAISS, paired with LLM-powered context-aware responses.
@@ -167,7 +167,7 @@ Retrieval-Augmented Generation chatbot for intelligent PDF Q&A. Implements text 
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [The Ledger — AI CSV Data Q&A Agent](https://github.com/MARVEL420-CODE)
+### 📊 [The Ledger — AI CSV Data Q&A Agent](https://github.com/MARVEL420-CODE/The-Ledger---CSV-Data-Q-A-Agent-)
 **Full-Stack AI Project**
 
 Natural language → SQL → execution → natural language answer pipeline. Dynamic schema detection, safe read-only SQL execution, CSV upload, and real-time result visualization.
