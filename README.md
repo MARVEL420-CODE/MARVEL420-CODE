@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&height=50&lines=Building+AI+Voice+Agents+%F0%9F%8E%99%EF%B8%8F;RAG+%2B+LLM+Applications+%F0%9F%A7%A0;Turning+Datasets+into+Answers+%F0%9F%93%8A;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Purushothaman+P+%F0%9F%91%8B;AIML+Graduate+%7C+AI+%26+GenAI+Developer+%F0%9F%A4%96;Python+Developer+%7C+ML+%7C+Deep+Learning+%F0%9F%90%8D;Generative+AI+%7C+LLMs+%7C+RAG+Applications+%F0%9F%A7%A0;Building+AI+Voice+%26+Vision+Agents+%F0%9F%8E%99%EF%B8%8F;LangChain+%7C+LangGraph+%7C+FAISS+%7C+OpenCV+%F0%9F%9B%A0%EF%B8%8F;From+Research+Projects+to+Real-World+AI+Apps+%F0%9F%9A%80;Build+%E2%80%A2+Experiment+%E2%80%A2+Deploy+%E2%80%A2+Keep+Learning+%F0%9F%94%A5" />
 
 <br><br>
 
