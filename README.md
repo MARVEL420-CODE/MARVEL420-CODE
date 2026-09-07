@@ -62,7 +62,9 @@
 - 🤖 Deep focus on **RAG, LangChain, FAISS, vector search**, and LLM-powered applications
 - 👁️ Comfortable across the stack — **Python, React/Node, Flutter**, and cloud deployment
 - 🔍 Actively seeking an **entry-level AI/ML Engineer** role
-
+<div align="center">
+  <img src="./assets/ImIM.gif" width="720"/>
+</div>
 <br>
 
 <!-- ========================================================= -->
@@ -266,3 +268,5 @@ I'm actively looking for **entry-level AI/ML & Generative AI roles** — always 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:00D9FF&height=100&section=footer" />
 
 </div>
+
+
