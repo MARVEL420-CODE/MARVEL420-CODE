@@ -4,160 +4,267 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Purushothaman+P+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Generative+AI;Python+Developer+%7C+RAG+%7C+LLMs;Computer+Vision+%7C+AI+Applications;Turning+AI+Ideas+into+Real+Applications+%F0%9F%A4%96" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:2563EB,100:7C3AED&height=200&section=header&text=PURUSHOTHAMAN%20P&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20Generative%20AI%20%7C%20Full-Stack%20Python&descAlignY=55&descSize=18" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:2563EB,100:7C3AED&height=170&section=header&text=PURUSHOTHAMAN%20P&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&height=50&lines=Building+AI+Voice+Agents+%F0%9F%8E%99%EF%B8%8F;RAG+%2B+LLM+Applications+%F0%9F%A7%A0;Turning+Datasets+into+Answers+%F0%9F%93%8A;Learn+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve+%F0%9F%9A%80" />
 
-<br>
-
-<h2>🤖 AI/ML Engineer • Generative AI • Python Developer</h2>
-
-<p>
-Building intelligent applications with
-<b>LLMs • RAG • Computer Vision • Machine Learning</b>
-</p>
-
-<br>
-
-<!-- SOCIAL BUTTONS -->
+<br><br>
 
 <a href="https://www.linkedin.com/in/purushothaman-p-6436a228a/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://github.com/MARVEL420-CODE">
-<img src="https://img.shields.io/badge/GitHub-MARVEL420--CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://purushoth-a-man-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=MARVEL420-CODE&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
-
-</div>
-
-
-<!-- ========================================================= -->
-<!--                       ABOUT ME                            -->
-<!-- ========================================================= -->
-
-# 🧠 About Me
-
-I'm an **AI/ML Engineer** passionate about building practical AI systems
-that connect machine learning with real-world applications.
-
-🎓 **B.E. Artificial Intelligence & Machine Learning**
-
-🐍 Python developer with experience in AI/ML and backend development
-
-🤖 Focused on **Generative AI, RAG and LLM applications**
-
-👁️ Interested in **Computer Vision and intelligent systems**
-
-🚀 Enjoy building and deploying **end-to-end AI applications**
-
-🔍 Currently looking for **entry-level AI/ML & Generative AI opportunities**
-
-
-<div align="center">
-
-### 💡 My Philosophy
-
-> **Learn → Build → Deploy → Improve**
-
-</div>
-
-
-<!-- ========================================================= -->
-<!--                     TECH STACK                            -->
-<!-- ========================================================= -->
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-### 🐍 Programming
-
-<img src="https://skillicons.dev/icons?i=python,js,dart" />
-
-<br><br>
-
-### 🤖 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-<br><br>
-
-### 🌐 Web & Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,html,css,js,react,nodejs,express" />
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-
-<br><br>
-
-### 🛠️ Development & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode" />
-
-<br><br>
-
-### 📱 Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
-
-</div>
-
-
-<!-- ========================================================= -->
-<!--                  GENERATIVE AI                            -->
-<!-- ========================================================= -->
-
-# 🤖 Generative AI
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-E91E63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/MARVEL420-CODE?label=Followers&style=for-the-badge&color=00D9FF"/>
 
 </div>
 
 <br>
 
+<!-- ========================================================= -->
+<!--                       ABOUT ME                            -->
+<!-- ========================================================= -->
+
+## 🧠 About Me
+
+<div align="center">
+<table>
+<tr><td>
+
+| | |
+|---|---|
+| 🧑‍💻 **Name** | Purushothaman P |
+| 🎯 **Role** | Aspiring AI/ML Engineer |
+| 🎓 **Education** | B.E. Artificial Intelligence & Machine Learning — AMC Engineering College (CGPA 8.45/10) |
+| 🔬 **Focus** | Generative AI · RAG · LLM Applications · Computer Vision · Agentic AI |
+| 🛠️ **Currently Building** | Voice agents, RAG pipelines, and end-to-end AI applications |
+| 🔍 **Looking For** | Entry-level AI/ML & Generative AI opportunities |
+| 💡 **Philosophy** | Learn → Build → Deploy → Improve |
+
+</td></tr>
+</table>
+</div>
+
+- 🎓 Final-year **AI & ML** engineering student, turning coursework into shipped products
+- 🎙️ Team lead on **Voxmate**, a KSCST-funded AI voice assistant project
+- 🤖 Deep focus on **RAG, LangChain, FAISS, vector search**, and LLM-powered applications
+- 👁️ Comfortable across the stack — **Python, React/Node, Flutter**, and cloud deployment
+- 🔍 Actively seeking an **entry-level AI/ML Engineer** role
+
+<br>
+
+<!-- ========================================================= -->
+<!--                     TECH STACK                            -->
+<!-- ========================================================= -->
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,dart,js" />
+
+<br><br>
+
+**AI / Machine Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<br><br>
+
+**Web & Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,express,html,css,js" />
+
+<br><br>
+
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+
+<br><br>
+
+**Mobile**
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+
+<br><br>
+
+**Tools & Deployment**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode" />
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                  GEN AI PIPELINE DIAGRAM                   -->
+<!-- ========================================================= -->
+
+## 🤖 Generative AI Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Search-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-0EA5E9?style=for-the-badge"/>
+
+</div>
+
+<div align="center">
+<img src="./assets/pipeline-diagram.svg" width="720"/>
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                    FEATURED PROJECTS                      -->
+<!-- ========================================================= -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ [Voxmate — AI Voice Assistant](https://github.com/MARVEL420-CODE)
+**Team Lead · KSCST Funded (Ref: 49S_BE_3509)**
+
+Conversational AI voice assistant with facial authentication and IoT-based smart device control. Modular architecture supports 10+ voice command categories with MQTT integration for real-time home automation.
+
+`Python` `PyTorch` `OpenCV` `MQTT` `Flask`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [PDF RAG Chatbot](https://github.com/MARVEL420-CODE)
+**Personal Project**
+
+Retrieval-Augmented Generation chatbot for intelligent PDF Q&A. Implements text chunking, embeddings, and semantic search with FAISS, paired with LLM-powered context-aware responses.
+
+`Python` `LangChain` `OpenAI` `FAISS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [The Ledger — AI CSV Data Q&A Agent](https://github.com/MARVEL420-CODE)
+**Full-Stack AI Project**
+
+Natural language → SQL → execution → natural language answer pipeline. Dynamic schema detection, safe read-only SQL execution, CSV upload, and real-time result visualization.
+
+`React` `Vite` `Node.js` `Express` `Gemini` `SQL.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏡 House Price Prediction
+**End-to-End ML Project**
+
+Full pipeline from synthetic data generation to a deployed Streamlit app — modular preprocessing, XGBoost modeling, and an evaluation report packaged for reproducibility.
+
+`Python` `XGBoost` `Streamlit` `Pandas`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                   EXPERIENCE TIMELINE                      -->
+<!-- ========================================================= -->
+
+## 💼 Experience
+
 ```text
-                 GENERATIVE AI
-                       │
-                       ▼
-                      LLMs
-                       │
-              ┌────────┴────────┐
-              ▼                 ▼
-             RAG          Prompt Engineering
-              │
-       ┌──────┴──────┐
-       ▼             ▼
-   Embeddings     Vector Search
-       │             │
-       └──────┬──────┘
-              ▼
-          FAISS / Retrieval
-              │
-              ▼
-       Context-Aware Answers
-              │
-              ▼
-        Intelligent AI Apps
+Feb 2026 ─ May 2026   Python Full Stack Trainee, Besant Technologies
+                      ↳ Vehicle Rental Management System — Flask + MySQL, REST APIs
+
+Dec 2025 ─ Feb 2026   Android Development Intern, Vayu Aarambh Innovation Pvt Ltd
+                      ↳ AQI monitoring app in Flutter — live OpenAQ data, real-time charts
+
+Sep 2025 ─ Dec 2025   Machine Learning Intern, Unified Mentor
+                      ↳ Supervised/unsupervised models, EDA & preprocessing pipelines
+```
+
+<br>
+
+## 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Google-Crash_Course_on_Python-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM-Machine_Learning_with_Python-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Meta-Programming_in_Python-0668E1?style=flat-square&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Duke_University-Intro_to_RAG-00539B?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS-ML_Fundamentals-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                       GITHUB STATS                         -->
+<!-- ========================================================= -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MARVEL420-CODE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARVEL420-CODE&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MARVEL420-CODE&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MARVEL420-CODE&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                        CONNECT                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+I'm actively looking for **entry-level AI/ML & Generative AI roles** — always open to a chat about agentic systems, RAG pipelines, or anything AI.
+
+<a href="https://www.linkedin.com/in/purushothaman-p-6436a228a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://purushoth-a-man-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-See_my_work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:00D9FF&height=100&section=footer" />
+
+</div>
