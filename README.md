@@ -231,8 +231,6 @@ Sep 2025 ─ Dec 2025   Machine Learning Intern, Unified Mentor
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MARVEL420-CODE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARVEL420-CODE&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
@@ -240,9 +238,7 @@ Sep 2025 ─ Dec 2025   Machine Learning Intern, Unified Mentor
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MARVEL420-CODE&theme=tokyo-night&hide_border=true"/>
 
-</div>
 
 <br>
 
