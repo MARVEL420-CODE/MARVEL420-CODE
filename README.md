@@ -1,7 +1,9 @@
 <!-- ========================================================= -->
 <!--                    PROFILE HEADER                         -->
 <!-- ========================================================= -->
-
+<div align="center">
+  <img src="./assets/Nft Coding GIF.gif" width="320"/>
+</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:2563EB,100:7C3AED&height=200&section=header&text=PURUSHOTHAMAN%20P&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20Generative%20AI%20%7C%20Full-Stack%20Python&descAlignY=55&descSize=18" />
