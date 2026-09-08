@@ -144,7 +144,9 @@
 <!-- ========================================================= -->
 <!--                    FEATURED PROJECTS                      -->
 <!-- ========================================================= -->
-
+<div align="center">
+  <img src="./assets/mxj_files-matrix-25406_512.gif" width="320"/>
+</div>
 ## 🚀 Featured Projects
 
 <table>
@@ -251,7 +253,9 @@ Sep 2025 ─ Dec 2025   Machine Learning Intern, Unified Mentor
 <!-- ========================================================= -->
 <!--                        CONNECT                             -->
 <!-- ========================================================= -->
-
+<div align="center">
+  <img src="./assets/Dance Reaction GIF by Scaler.gif" width="320"/>
+</div>
 <div align="center">
 
 ## 🤝 Let's Connect
